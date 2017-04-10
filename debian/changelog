@@ -1,0 +1,5 @@
+opx-nas-l2 (1.0.1) unstable; urgency=medium
+
+  * Initial release.
+
+ -- Dell EMC <ops-dev@lists.openswitch.net>  Wed, 01 Feb 2017 09:44:43 -0800
